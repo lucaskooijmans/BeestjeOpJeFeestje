@@ -1,0 +1,39 @@
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/bin/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.deps.json
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/bin/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.dll
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/bin/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.pdb
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.csproj.AssemblyReference.cache
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.AssemblyInfoInputs.cache
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.AssemblyInfo.cs
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.csproj.CoreCompileInputs.cache
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.dll
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/refint/PROG6_BeestjeOpJeFeestje.Domain.dll
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.pdb
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/ref/PROG6_BeestjeOpJeFeestje.Domain.dll
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/bin/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.runtimeconfig.json
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.genruntimeconfig.cache
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/bin/Debug/net7.0/Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/bin/Debug/net7.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/bin/Debug/net7.0/Microsoft.AspNetCore.Http.Abstractions.dll
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/bin/Debug/net7.0/Microsoft.Extensions.Features.dll
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/bin/Debug/net7.0/Microsoft.Extensions.Hosting.Abstractions.dll
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/bin/Debug/net7.0/System.IO.Pipelines.dll
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/bin/Debug/net7.0/Microsoft.AspNetCore.Http.Features.dll
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/bin/Debug/net7.0/Microsoft.Net.Http.Headers.dll
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/bin/Debug/net7.0/Microsoft.AspNetCore.Connections.Abstractions.dll
+C:/Users/sven-/RiderProjects/prog6-eindopdracht-2324-lucaskooijmans-svengoossens/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.csproj.CopyComplete
+/Users/lucas/Downloads/prog6-eindopdracht-2324-lucaskooijmans-svengoossens 4/PROG6_BeestjeOpJeFeestje.Domain/bin/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.deps.json
+/Users/lucas/Downloads/prog6-eindopdracht-2324-lucaskooijmans-svengoossens 4/PROG6_BeestjeOpJeFeestje.Domain/bin/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.runtimeconfig.json
+/Users/lucas/Downloads/prog6-eindopdracht-2324-lucaskooijmans-svengoossens 4/PROG6_BeestjeOpJeFeestje.Domain/bin/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.dll
+/Users/lucas/Downloads/prog6-eindopdracht-2324-lucaskooijmans-svengoossens 4/PROG6_BeestjeOpJeFeestje.Domain/bin/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.pdb
+/Users/lucas/Downloads/prog6-eindopdracht-2324-lucaskooijmans-svengoossens 4/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.csproj.AssemblyReference.cache
+/Users/lucas/Downloads/prog6-eindopdracht-2324-lucaskooijmans-svengoossens 4/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucas/Downloads/prog6-eindopdracht-2324-lucaskooijmans-svengoossens 4/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.AssemblyInfoInputs.cache
+/Users/lucas/Downloads/prog6-eindopdracht-2324-lucaskooijmans-svengoossens 4/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.AssemblyInfo.cs
+/Users/lucas/Downloads/prog6-eindopdracht-2324-lucaskooijmans-svengoossens 4/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.csproj.CoreCompileInputs.cache
+/Users/lucas/Downloads/prog6-eindopdracht-2324-lucaskooijmans-svengoossens 4/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.sourcelink.json
+/Users/lucas/Downloads/prog6-eindopdracht-2324-lucaskooijmans-svengoossens 4/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.dll
+/Users/lucas/Downloads/prog6-eindopdracht-2324-lucaskooijmans-svengoossens 4/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/refint/PROG6_BeestjeOpJeFeestje.Domain.dll
+/Users/lucas/Downloads/prog6-eindopdracht-2324-lucaskooijmans-svengoossens 4/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.pdb
+/Users/lucas/Downloads/prog6-eindopdracht-2324-lucaskooijmans-svengoossens 4/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/PROG6_BeestjeOpJeFeestje.Domain.genruntimeconfig.cache
+/Users/lucas/Downloads/prog6-eindopdracht-2324-lucaskooijmans-svengoossens 4/PROG6_BeestjeOpJeFeestje.Domain/obj/Debug/net7.0/ref/PROG6_BeestjeOpJeFeestje.Domain.dll

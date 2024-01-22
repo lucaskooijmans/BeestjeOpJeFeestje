@@ -1,0 +1,69 @@
+@model PROG6_BeestjeOpJeFeestje.ViewModels.BookingSummaryVM
+
+@{
+    ViewData["Title"] = "Booking Summary";
+}
+
+<h1>Booking summary</h1>
+
+
+    <!-- Display contact information fields -->
+    <div>
+        @Html.LabelFor(model => model.Date)
+        @Html.DisplayFor(model => model.Date)
+    </div>
+    <div>
+        @Html.LabelFor(model => model.FirstName)
+        @Html.DisplayFor(model => model.FirstName)
+
+    </div>
+    <div>
+        @Html.LabelFor(model => model.InBetween)
+        @Html.DisplayFor(model => model.InBetween)
+
+    </div>
+    <div>
+        @Html.LabelFor(model => model.LastName)
+        @Html.DisplayFor(model => model.LastName)
+
+    </div>
+    <div>
+        @Html.LabelFor(model => model.Address)
+        @Html.DisplayFor(model => model.Address)
+
+    </div>
+<div>
+    @Html.LabelFor(model => model.Email)
+    @Html.DisplayFor(model => model.Email)
+</div>
+
+ <h3>Prijs / Korting</h3>
+
+        <ul>
+            @foreach (var animal in Model.SelectedAnimals)
+            {
+                <li>@animal.Name: €@animal.Price</li>
+            }
+            @foreach (var discount in Model.Discounts)
+            {
+                <li>@discount.DiscountName @discount.PercentageDiscount%</li>
+            }
+        </ul>
+
+        <h4>Totale prijs: €@Model.Price</h4>
+
+<div>
+@using (Html.BeginForm("Accept", "Booking", FormMethod.Post))
+{
+    <button type="submit">Accept</button>
+    
+}
+</div>
+<div>
+@using (Html.BeginForm("Cancel", "Booking", FormMethod.Post))
+{
+    <button type="submit">Cancel</button>
+    
+}
+</div>
+

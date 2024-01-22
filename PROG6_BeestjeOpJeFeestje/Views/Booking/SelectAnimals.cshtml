@@ -1,0 +1,44 @@
+﻿@model PROG6_BeestjeOpJeFeestje.ViewModels.BookingAnimalsVM
+
+@{
+    ViewData["Title"] = "Select Animals";
+}
+
+<h1>Select Animals</h1>
+
+
+@using (Html.BeginForm("SelectAnimals", "Booking", FormMethod.Post))
+{
+    <div class="row">
+        <div class="col-8">
+            <!-- Display list of available animals -->
+            <div class="row">
+                @for (int i = 0; i < Model.Animals.Count; i++)
+                {
+                    <div class="col-2 grid-item">
+                        <div class="checkbox">
+                            @Html.HiddenFor(m => m.Animals[i].Id)
+                            @Html.DisplayFor(m => m.Animals[i].Name)
+                            @Html.HiddenFor(m => m.Animals[i].Name)
+                            @Html.CheckBoxFor(m => m.Animals[i].Selected)
+                            <img src="@Model.Animals[i].ImageUrl" alt="Animal Image" style="max-width: 50px;"/>
+                            @Html.DisplayFor(m => m.Animals[i].Price)
+                            @Html.HiddenFor(m => m.Animals[i].Price)
+                            @Html.HiddenFor(m => m.Animals[i].ImageUrl)
+                            @Html.HiddenFor(m => m.Animals[i].Type)
+
+
+                        </div>
+                    </div>
+                }
+            </div>
+            <span asp-validation-for="Animals" class="text-danger"></span>
+
+
+            <button class="btn btn-primary" type="submit">Next</button>
+        </div>
+        <div class="col-4">
+            @await Html.PartialAsync("_BookingSummary", Model.BookingSummary)
+        </div>
+    </div>
+}

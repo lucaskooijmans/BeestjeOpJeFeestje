@@ -1,0 +1,17 @@
+@model PROG6_BeestjeOpJeFeestje.ViewModels.BookingDateVM
+
+@{
+    ViewData["Title"] = "Choose Date";
+}
+
+<h1>Choose Date</h1>
+
+@using (Html.BeginForm("SetDate", "Booking", FormMethod.Post))
+{
+    <div>
+        @Html.LabelFor(model => model.Date)
+        @Html.EditorFor(model => model.Date)
+    </div>
+
+    <button type="submit">Next</button>
+}

@@ -1,0 +1,63 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<User> SignInManager
+
+@model PROG6_BeestjeOpJeFeestje.ViewModels.BookingContactInfoVM
+
+@{
+    ViewData["Title"] = "Enter Contact Information";
+}
+
+<h1>Enter Contact Information</h1>
+
+<div class="row">
+    <div class="col-6">
+        <div class="row">
+            <div class="col-6">
+                @using (Html.BeginForm("EnterContactInfo", "Booking", FormMethod.Post))
+                {
+                    <!-- Display contact information fields -->
+                    <div>
+                        @Html.LabelFor(model => model.FirstName)
+                        @Html.EditorFor(model => model.FirstName)
+                    </div>
+                    <div>
+                        @Html.LabelFor(model => model.InBetween)
+                        @Html.EditorFor(model => model.InBetween)
+                    </div>
+                    <div>
+                        @Html.LabelFor(model => model.LastName)
+                        @Html.EditorFor(model => model.LastName)
+                    </div>
+                    <div>
+                        @Html.LabelFor(model => model.Address)
+                        @Html.EditorFor(model => model.Address)
+                    </div>
+                    <div>
+                        @Html.LabelFor(model => model.Email)
+                        @Html.EditorFor(model => model.Email)
+                    </div>
+
+                    <button type="submit">Next</button>
+                }
+            </div>
+
+            <div class="col-6">
+                <h1>Heb je al een account?</h1>
+                @using (Html.BeginForm("UseAccount", "Booking", FormMethod.Post))
+                {
+                    @if (SignInManager.IsSignedIn(User))
+                    {
+                        <button type="submit">Use user data</button>
+                    }
+                    else
+                    {
+                        <button type="submit">Login</button>
+                    }
+                }
+            </div>
+        </div>
+    </div>
+    <div class="col-6">
+        @await Html.PartialAsync("_BookingSummary", Model.BookingSummary)
+    </div>
+</div>

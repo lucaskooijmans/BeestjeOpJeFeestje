@@ -1,0 +1,20 @@
+@model PROG6_BeestjeOpJeFeestje.ViewModels.BookingSummaryVM
+
+<h2>Booking Summary</h2>
+
+@if (Model.Date != null)
+{
+    @Html.DisplayFor(m => m.Date)
+}
+@if (Model.SelectedAnimals != null)
+{
+    <div class="row">
+        @foreach (var animal in Model.SelectedAnimals)
+        {
+            <div class="col-1">
+                <img src="@animal.ImageUrl" alt="Animal Image" style="max-width: 50px;"/>
+            </div>
+        }
+    </div>
+}
+
